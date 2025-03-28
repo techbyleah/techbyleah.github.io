@@ -1,0 +1,26 @@
+article{
+    width: 500px;
+    height:20px;
+    margin: 0 atuo;
+    color: black;
+}
+
+h2{
+    text-align:center;
+    font-family: Emilys Candy
+}
+footer{
+    text-align: center;
+}
+
+body{
+    text-align:center;
+}
+
+header{
+    text-align:center;
+    background-color: lightskyblue;
+}
+.white{
+    color: whitesmoke;
+}
